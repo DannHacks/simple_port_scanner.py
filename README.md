@@ -1,4 +1,4 @@
-# simple_portscanner.py
+# simple_port_scanner.py
 
 ## Simple Python Portscanner (with colours!)
 
